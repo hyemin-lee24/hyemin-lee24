@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 [file-access-statistics]([https://github.com/hyemin-lee24/perf-monitoring](https://github.com/hyemin-lee24/file-access-statistics)
+### 📊 [file-access-statistics](https://github.com/hyemin-lee24/file-access-statistics)
 > Security analytics system that collects, parses, and aggregates file access logs to provide user and policy-based statistics
 - ✅ Receive and store compressed log files
 - 🔍 Load DB after parsing the colon(`:`) distinguished log format
@@ -67,8 +67,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyemin-lee24&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyemin-lee24&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyemin-lee24&show_icons=true&theme=tokyonight&cachebuster=1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyemin-lee24&layout=compact&theme=tokyonight&cachebuster=1" height="150"/>
 </div>
 
 ---
