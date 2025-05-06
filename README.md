@@ -64,6 +64,14 @@
 
 ---
 
+### 🧪 [Kotlin Study](https://github.com/hyemin-lee24/kotlin-study)
+> A hands-on notebook to explore Kotlin syntax, features, and practical examples
+
+- 🔍 Learn Kotlin basics through concise examples
+- 🛠️ Practice object-oriented & functional programming patterns
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
