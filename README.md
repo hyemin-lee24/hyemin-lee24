@@ -10,23 +10,17 @@
 ---
 
 ## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-DB1F29?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tibero-3D3C3A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> </div>
+<div align="left"> <img src="https://img.shields.io/badge/MyBatis-DB1F29?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Tibero-3D3C3A?style=for-the-badge&logoColor=white"/> </div>
+<div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div>
+📚
+<div align="left"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> </div>
 
 ---
 
 ## 💼 Career Summary
 
-- 💼 3+ years experience as a backend developer using **Java + Spring Boot**
+- 💼 4+ years experience as a backend developer using **Java + Spring Boot**
 - 🗃 Specialized in **MyBatis**, custom SQL query handling, performance tuning
 - 🧪 Practical experience with **JPA** in domain-driven systems
 - 🧠 Strong RDBMS background: PostgreSQL, Oracle, Tibero
@@ -35,16 +29,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🧘‍♀️ [Workout Challenge API](https://github.com/hyemin-lee24/workout-challenge-api)
-> RESTful API for managing fitness challenge programs  
-- ✅ Developed using **Spring Boot + Spring Data JPA**
-- 🧩 Swagger API docs, global exception handler
-- 🔐 JWT-based authentication, role-based access control
-- 🐳 Dockerized environment + PostgreSQL
-- 🧪 Focused on domain modeling and service abstraction
-
----
 
 ### 📊 [file-access-statistics](https://github.com/hyemin-lee24/file-access-statistics)
 > Security analytics system that collects, parses, and aggregates file access logs to provide user and policy-based statistics
@@ -56,6 +40,15 @@
 
 ---
 
+### 🧘‍♀️ [Workout Challenge API](https://github.com/hyemin-lee24/workout-challenge-api)
+> RESTful API for managing fitness challenge programs  
+- ✅ Developed using **Spring Boot + Spring Data JPA**
+- 🧩 Swagger API docs, global exception handler
+- 🔐 JWT-based authentication, role-based access control
+- 🐳 Dockerized environment + PostgreSQL
+- 🧪 Focused on domain modeling and service abstraction
+
+---
 
 ### 📚 [Today I Learned (TIL)](https://github.com/hyemin-lee24/TIL)
 > A space where you grow by recording even small things to learn  
