@@ -22,9 +22,9 @@
 
 - 💼 4+ years experience as a backend developer using **Java + Spring Boot**
 - 🗃 Specialized in **MyBatis**, custom SQL query handling, performance tuning
-- 🧪 Practical experience with **JPA** in domain-driven systems
 - 🧠 Strong RDBMS background: PostgreSQL, Oracle, Tibero
 - 🔐 Built secure APIs using JWT, session-based auth, and RBAC
+- 💻 Experience with JavaScript and jQuery for frontend integration and dynamic UI enhancements
 
 ---
 
