@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Hyemin Lee</h1>
+![image](https://github.com/user-attachments/assets/f6cf0e68-969c-431f-b08e-281d9c2061a3)<h1 align="center">👋 Hi, I'm Hyemin Lee</h1>
 <h3 align="center">Backend Developer | Java, Spring Boot, MyBatis</h3>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ## 💼 Career Summary
 
-- 💼 4+ years experience as a backend developer using **Java + Spring Boot**
-- 🗃 Specialized in **MyBatis**, custom SQL query handling, performance tuning
-- 🧠 Strong RDBMS background: PostgreSQL, Oracle, Tibero
+- 💼 **Java + Spring Boot**를 사용한 백엔드 개발자로서의 4년 이상의 경력
+- 🗃 MyBatis에 특화된 맞춤형 SQL 쿼리 처리, 성능 조정
+- 🧠 Strong RDBMS background: **PostgreSQL, Oracle, Tibero**
 - 🔐 Built secure APIs using JWT, session-based auth, and RBAC
-- 💻 Experience with JavaScript and jQuery for frontend integration and dynamic UI enhancements
+- 💻 프론트엔드 통합 및 동적 UI 향상을 위한 JavaScript 및 jQuery 사용 경험
 
 ---
 
