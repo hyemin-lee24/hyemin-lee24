@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f6cf0e68-969c-431f-b08e-281d9c2061a3)<h1 align="center">👋 Hi, I'm Hyemin Lee</h1>
+<h1 align="center">👋 Hi, I'm Hyemin Lee</h1>
 <h3 align="center">Backend Developer | Java, Spring Boot, MyBatis</h3>
 
 <p align="center">
