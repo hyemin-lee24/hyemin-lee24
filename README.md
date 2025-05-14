@@ -1,18 +1,6 @@
-<h1 align="center">👋 Hi, I'm Hyemin Lee</h1>
-<h3 align="center">Backend Developer | Java, Spring Boot, MyBatis</h3>
-
-<p align="center">
-📌 Focused on scalable backend systems with robust DB integrations  
-💬 Strong in MyBatis / SQL optimization | Experienced with PostgreSQL, Oracle, Tibero  
-📚 Learning more about JPA, distributed systems, and cloud-native development
-</p>
-
----
-
 ## 🛠 Tech Stack
-<div align="left"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> </div>
-<div align="left"> <img src="https://img.shields.io/badge/MyBatis-DB1F29?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Tibero-3D3C3A?style=for-the-badge&logoColor=white"/> </div>
-<div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div>
+<div align="left"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-DB1F29?style=for-the-badge&logoColor=white"/> </div> <div align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Tibero-3D3C3A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Ignite-E34F26?style=for-the-badge&logo=apache&logoColor=white"/> </div> <div align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logoColor=white"/> </div> <div align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/KMS-555555?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </div>
+
 📚
 <div align="left"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> </div>
 
@@ -20,48 +8,16 @@
 
 ## 💼 Career Summary
 
-- 💼 **Java + Spring Boot**를 사용한 백엔드 개발자로서의 4년 이상의 경력
-- 🗃 MyBatis에 특화된 맞춤형 SQL 쿼리 처리, 성능 조정
-- 🧠 Strong RDBMS background: **PostgreSQL, Oracle, Tibero**
-- 🔐 Built secure APIs using JWT, session-based auth, and RBAC
-- 💻 프론트엔드 통합 및 동적 UI 향상을 위한 JavaScript 및 jQuery 사용 경험
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [file-access-statistics](https://github.com/hyemin-lee24/file-access-statistics)
-> Security analytics system that collects, parses, and aggregates file access logs to provide user and policy-based statistics
-- ✅ Receive and store compressed log files
-- 🔍 Load DB after parsing the colon(`:`) distinguished log format
-- 📊 Aggregate upload/download success/failure statistics by date/time/user/policy/device
-- 🗂️ Implement automatic table generation and cleanup logic for statistics
-- 🧵 Oracle-based + MyBatis Utilization / Scheduler Automation Configuration
-
----
-
-### 🧘‍♀️ [Workout Challenge API](https://github.com/hyemin-lee24/workout-challenge-api)
-> RESTful API for managing fitness challenge programs  
-- ✅ Developed using **Spring Boot + Spring Data JPA**
-- 🧩 Swagger API docs, global exception handler
-- 🔐 JWT-based authentication, role-based access control
-- 🐳 Dockerized environment + PostgreSQL
-- 🧪 Focused on domain modeling and service abstraction
-
----
-
-### 📚 [Today I Learned (TIL)](https://github.com/hyemin-lee24/TIL)
-> A space where you grow by recording even small things to learn  
-- 🌱 Keep track of Java, Spring, SQL, etc
-- ✍️ Share your daily learning and shoveling experiences
-
----
-
-### 🧪 [Kotlin Study](https://github.com/hyemin-lee24/kotlin-study)
-> A hands-on notebook to explore Kotlin syntax, features, and practical examples
-
-- 🔍 Learn Kotlin basics through concise examples
-- 🛠️ Practice object-oriented & functional programming patterns
+- 💻 Java + Spring Boot 기반 백엔드 개발 4년 이상 경력<br>
+B2B 솔루션 환경에서 제품 구조 개선, 보안 강화, 성능 최적화 중심의 개발 수행
+- 🔧 MyBatis 기반 커스텀 SQL 처리 및 DB 성능 분석 경험<br>
+Oracle, PostgreSQL, Tibero 등 이기종 DB 환경 대응 및 이중화 운영
+- 🔐 실제 보안 인증 및 점검 리포트 기반 취약점 대응 역량 보유<br>
+KMS 연동, 인증·인가 설계, 웹 보안 헤더(HSTS, X-Frame-Options 등) 적용
+- 🧠 시스템 안정성 향상을 위한 GC 튜닝, 멀티스레드 자원 보호 등 장애 대응 경험
+- 🌐 Web 기반 시스템 전환, 다국어 지원 등 UI/UX 개선 프로젝트 주도
+- 🤝 엔지니어와의 협업 경험을 통한 커뮤니케이션 능력<br>
+현장 이슈 분석, 트러블슈팅 및 배포 과정에서의 실무 협업 역량 확보
 
 ---
 
