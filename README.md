@@ -31,6 +31,6 @@ KMS 연동, 인증·인가 설계, 웹 보안 헤더(HSTS, X-Frame-Options 등) 
 ---
 
 <p align="center">
-📌 Always open to learning and building meaningful backend systems!  
+📌 Always open to learning and building meaningful backend systems!<br>
 ✨ Thanks for stopping by 😊
 </p>
